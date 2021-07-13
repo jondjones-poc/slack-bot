@@ -1,0 +1,20 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Jokebot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondjones-poc/slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/jondjones-poc/slack-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "slackbots": "^1.2.0"
+  }
+}
